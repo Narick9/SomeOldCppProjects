@@ -1,0 +1,10 @@
+﻿  snake.c
+D:\googleDrive\c\01.11.19\c_snake\sources\snake.c(15,1): error C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(182): message : см. объявление "strerror"
+D:\googleDrive\c\01.11.19\c_snake\sources\snake.c(153,1): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459): message : см. объявление "kbhit"
+D:\googleDrive\c\01.11.19\c_snake\sources\snake.c(154,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : см. объявление "getch"
+D:\googleDrive\c\01.11.19\c_snake\sources\snake.c(209,21): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\googleDrive\c\01.11.19\c_snake\sources\snake.c(244,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : см. объявление "scanf"

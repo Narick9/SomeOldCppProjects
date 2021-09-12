@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Компьютер\Downloads\Source.cpp(20,13): warning C4244:  аргумент: преобразование "double" в "DWORD", возможна потеря данных
+C:\Users\Компьютер\Downloads\Source.cpp(277,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  snake.vcxproj -> D:\googleDrive\саморазвитие\c++\проекты\snake\Debug\snake.exe
